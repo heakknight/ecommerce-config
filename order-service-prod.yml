@@ -1,1 +1,6 @@
+order:
+  max-items: 5
+  discount: 5
 
+app:
+  environment: PRODUCTION
