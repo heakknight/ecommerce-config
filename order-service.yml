@@ -1,1 +1,9 @@
+server:
+  port: 8081
 
+order:
+  currency: USD
+  max-items: 10
+
+app:
+  environment: default
