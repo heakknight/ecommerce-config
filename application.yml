@@ -1,1 +1,3 @@
-
+app:
+  company: "Cortex E-Commerce"
+  message: "Shared configuration from Git"
